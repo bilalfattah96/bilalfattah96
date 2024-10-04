@@ -4,19 +4,24 @@
 ![GitHub stars](https://img.shields.io/github/stars/bilalfattah96?style=social)
 ![GitHub views](https://komarev.com/ghpvc/?username=bilalfattah96&style=flat-square&color=blue)
 
-I'm a passionate **Software Developer** with a focus on leveraging technology to create impactful solutions. Here’s a bit about me and what I’m currently working on:
+## 👨‍💻 About Me
+I'm a passionate Software Developer with a focus on leveraging technology to create impactful solutions. I enjoy tackling complex problems and exploring innovative approaches to software development. Currently, I'm diving into projects that blend my interests in software engineering and biomedical technology. From enhancing healthcare solutions to building robust applications, I’m always eager to learn and expand my skill set. 
+
+Here’s a bit about me and what I’m currently working on:
+
 
 ---
 
 ## 🔭 Current Projects
-- **Nutritionix API Demo**: A web-based application that integrates Nutritionix and RapidAPI for nutrition and location data.
-- **LeafGuard**: Transforming big data with data science, utilizing MongoDB and VS Code.
-- **Flutter Budget Tracker**: A mobile app with budget tracking and Firebase notifications.
+- **Nutritionix**: A web-based application that integrates Nutritionix and RapidAPI for nutrition and location data, utilizing Flask for backend services and HTML/CSS for the front end.
+- **LeafGuard**: Transforming big data with data science, leveraging MongoDB for data storage, and utilizing Python and VS Code for data analysis and visualization.
+- **Flutter Budget Tracker**: A mobile app with budget tracking and Firebase notifications, featuring advanced state management and cloud integration.
 
 ## 🌱 Learning and Exploring
-- **Backend Integration**: Mastering React and backend services for full-stack development.
-- **Data Science**: Working with big data projects and using MongoDB.
-- **Advanced Flutter**: Implementing responsive design and Firebase integration in mobile apps.
+- **Backend Integration**: Mastering full-stack development with React, Node.js, and Express.js, focusing on RESTful APIs and GraphQL for efficient data communication.
+- **Data Science and AI**: Engaging with machine learning algorithms, big data processing, and data visualization using tools like TensorFlow, Keras, and Jupyter Notebook.
+- **Advanced Flutter**: Implementing responsive design and Firebase integration with advanced libraries such as Riverpod for state management, and exploring cross-platform compatibility enhancements.
+- **Cloud Computing**: Expanding knowledge in cloud platforms such as AWS and Azure, with a focus on serverless architectures, Kubernetes orchestration, and Docker containerization.
 
 ---
 
@@ -101,8 +106,6 @@ I'm always open to exciting projects and collaborations, especially in:
 ## ⚡ Fun Fact
 When I’m not coding, you’ll probably find me exploring new technologies or diving into the fascinating worlds of software and biomedical engineering!
 
-
-![Profile Banner](https://static.vecteezy.com/system/resources/previews/024/359/734/large_2x/it-manager-managing-team-technology-systems-vector.jpg)
 
 ---
 
